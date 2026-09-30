@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chef Hat / Recipe Pot Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,36c-4.4,0 -8,3.6 -8,8 0,1.2 0.3,2.3 0.8,3.3 -3.4,1.4 -5.8,4.7 -5.8,8.7 0,4.6 3.4,8.4 7.8,9 0.4,5 4.6,9 9.7,9h23c5.1,0 9.3,-4 9.7,-9 4.4,-0.6 7.8,-4.4 7.8,-9 0,-4 -2.4,-7.3 -5.8,-8.7 0.5,-1 0.8,-2.1 0.8,-3.3 0,-4.4 -3.6,-8 -8,-8 -1.2,0 -2.3,0.3 -3.3,0.8 -2.4,-4 -6.8,-6.8 -11.9,-6.8s-9.5,2.8 -11.9,6.8c-1,-0.5 -2.1,-0.8 -3.3,-0.8zM36,78h36v6H36z" />
+</vector>

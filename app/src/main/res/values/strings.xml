@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecipeLoop</string>
+    <string name="recipes">Recipes</string>
+    <string name="search_placeholder">Search recipes, ingredients, cuisines...</string>
+    <string name="all_cuisines">All</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_recipes_found">No recipes found</string>
+    <string name="recipe_ai_title">RecipeLoop AI</string>
+</resources>
