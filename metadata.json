@@ -1,0 +1,8 @@
+{
+  "name": "RecipeLoop",
+  "description": "Discover delicious recipes, browse cuisines, and view detailed ingredients, nutrition, and cooking instructions.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
