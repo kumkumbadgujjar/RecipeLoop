@@ -37,3 +37,12 @@ export interface AddRecipeRequest {
   tags: string[];
   mealType: string[];
 }
+
+export interface ChatMessage {
+  id: string;
+  role: 'user' | 'model';
+  content: string;
+  timestamp: number;
+  isVoiceInput?: boolean;
+}
+
